@@ -19,6 +19,12 @@ A comprehensive data analytics portfolio featuring two distinct Excel projects f
 
 This interactive dashboard was built to help job seekers investigate salaries for their desired roles and ensure they are being fairly compensated. It allows users to filter by job title, country, and schedule type to get tailored salary insights.
 
+### Salary Dashboard  
+<img width="800" height="273" alt="ScreenRecording2026-06-22102013-ezgif com-optimize" src="https://github.com/user-attachments/assets/20944e3a-a359-476c-8831-1b838d166247" />
+
+
+
+
 ### Excel Skills Used
 
 - **📉 Charts** — Bar chart and map chart for visual salary comparisons
@@ -66,6 +72,12 @@ This dashboard provides a practical tool for exploring salary trends across data
 ### Introduction
 
 This project digs into the data science job market to answer four key questions around skills and compensation — helping job seekers understand what to learn and what to expect to earn.
+
+### Analytical Charts From Project 2  
+<img width="1859" height="469" alt="Screenshot 2026-06-22 103737" src="https://github.com/user-attachments/assets/28e9748a-d36b-4b34-8d2a-08d0d270a83c" />
+<img width="1440" height="484" alt="Screenshot 2026-06-22 103709" src="https://github.com/user-attachments/assets/ae828a04-1197-4876-a1f8-94f027a72572" />
+<img width="920" height="497" alt="Screenshot 2026-06-22 103648" src="https://github.com/user-attachments/assets/da559fb7-788b-4521-8070-4b8ae3aa8d4f" />
+
 
 ### Questions Analyzed
 
