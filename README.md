@@ -13,7 +13,7 @@ A comprehensive data analytics portfolio featuring two distinct Excel projects f
 
 ---
 
-### [Project 1: Excel Salary Dashboard](./Salary_Dashboard.xlsx)
+### Project 1: Excel Salary Dashboard
 
 ### Introduction
 
@@ -67,7 +67,7 @@ This dashboard provides a practical tool for exploring salary trends across data
 
 ---
 
-## [Project 2: Data Science Job Market Analysis](./salary_analysis.xlsx)
+## Project 2: Data Science Job Market Analysis
 
 ### Introduction
 
