@@ -13,7 +13,7 @@ A comprehensive data analytics portfolio featuring two distinct Excel projects f
 
 ---
 
-### [Project 1: Excel Salary Dashboard](./salary_dashboard.xlsx)
+### [Project 1: Excel Salary Dashboard](./Salary_Dashboard.xlsx)
 
 ### Introduction
 
