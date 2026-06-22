@@ -10,7 +10,6 @@ A comprehensive data analytics portfolio featuring two distinct Excel projects f
 |--------|-------|------------|
 | [Project 1 – Salary Dashboard](./Salary_Dashboard.xlsx) | Interactive salary explorer by job title, country & type | Charts, Formulas, Data Validation |
 | [Project 2 – Data Science Job Market Analysis](./Salary_Analysis.xlsx) | In-depth market analysis across 4 key questions | Power Query, Power Pivot, DAX, Pivot Charts |
-
 ---
 
 ### Project 1: Excel Salary Dashboard
